@@ -123,5 +123,19 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ![Screenshot 2024-04-18 084022](https://github.com/PremkumarG3/Linux-IPC-Shared-memory/assets/138955646/4a8756d4-85e6-4010-a76f-fb7d8dd72462)
 
 
+
+
+
+
+
+
+
+
 # RESULT:
 The program is executed successfully.
+
+
+
+
+
+
